@@ -1,0 +1,15 @@
+{
+  "BMSServer.AppName": "IFSW Веб-Сервер",
+  "BMSServer.AppDescription": "Серверная часть приложения",
+
+  "HomePage.MainBullet1.Title": "Добрый день",
+  "HomePage.MainBullet1.Text":  "Мы рады Вас приветствовать",
+  "HomePage.MainBullet2.Title": "Веб-сервер работает",
+  "HomePage.MainBullet2.Text":  "Если вы видите эту страницу, значит серверная часть приложения IFSW запущена и работает",
+  "HomePage.MainBullet3.Title": "Используйте клиентскую часть",
+  "HomePage.MainBullet3.Text":  "На сервере нет пользовательского интерфейса, с которым можно работать",
+
+  "User.Login: Invalid username/password combination": "Неверный логин или пароль",
+
+  "Dummy": "Заглушка"
+}
